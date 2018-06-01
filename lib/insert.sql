@@ -22,5 +22,5 @@ VALUES ("Alex", "Permanent Vacation", "Human", 1, 1),
 ("Cale", "GO FASTER", "Human", 1, 1),
 ("Jack", "That's Not Right", "Human", 1, 3),
 ("Chris", "It's mine!", "Human", 1, 4),
-("Marc", "Permanent Vacation", "Human", 1, 3),
+("Marc", "Tacos", "Human", 1, 3),
 ("Darryl", "Permanent Vacation", "Human", 1, 4);
