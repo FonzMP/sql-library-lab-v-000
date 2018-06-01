@@ -30,3 +30,6 @@ CREATE TABLE characters (
   author_id INTEGER,
   series_id INTEGER
 );
+
+SELECT * FROM books 
+JOIN characters ON characters.series_id = books.series_id
