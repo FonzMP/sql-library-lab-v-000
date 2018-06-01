@@ -19,7 +19,7 @@ INSERT INTO characters (name, motto, species, author_id, series_id)
 VALUES ("Alex", "Permanent Vacation", "Human", 1, 1),
 ("John", "Sure", "Human", 1, 2),
 ("Jacob", "Whatever", "Human", 1, 2),
-("Cale", "Permanent Vacation", "Human", 1, 1),
+("Cale", "GO FASTER", "Human", 1, 1),
 ("Jack", "Permanent Vacation", "Human", 1, 3),
 ("Chris", "Permanent Vacation", "Human", 1, 4),
 ("Marc", "Permanent Vacation", "Human", 1, 3),
