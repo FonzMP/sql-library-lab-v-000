@@ -17,7 +17,7 @@ VALUES ("Another Trip Round the Sun", 1986, 2),
 
 INSERT INTO characters (name, motto, species, author_id, series_id)
 VALUES ("Alex", "Permanent Vacation", "Human", 1, 1),
-("John", "Permanent Vacation", "Human", 1, 2),
+("John", "Sure", "Human", 1, 2),
 ("Jacob", "Permanent Vacation", "Human", 1, 2),
 ("Cale", "Permanent Vacation", "Human", 1, 1),
 ("Jack", "Permanent Vacation", "Human", 1, 3),
