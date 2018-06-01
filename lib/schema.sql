@@ -31,5 +31,8 @@ CREATE TABLE characters (
   series_id INTEGER
 );
 
-SELECT * FROM books 
-JOIN characters ON characters.series_id = books.series_id
+CREATE TABLE character_books (
+  id INTEGER PRIMARY KEY,
+  book_id INTEGER,
+  character_id INTEGER
+);
