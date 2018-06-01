@@ -16,11 +16,11 @@ VALUES ("Another Trip Round the Sun", 1986, 2),
 ("Where's the Sun", 1976, 1),
 
 INSERT INTO characters (name, motto, species, author_id, series_id)
-VALUES ("Alex", "Permanent Vacation", "Human", 1, 3), 
-("Alex", "Permanent Vacation", "Human", 1, 3), 
-("Alex", "Permanent Vacation", "Human", 1, 3), 
-("Alex", "Permanent Vacation", "Human", 1, 3), 
-("Alex", "Permanent Vacation", "Human", 1, 3), 
-("Alex", "Permanent Vacation", "Human", 1, 3), 
-("Alex", "Permanent Vacation", "Human", 1, 3), 
-("Alex", "Permanent Vacation", "Human", 1, 3);
+VALUES ("Alex", "Permanent Vacation", "Human", 1, 1),
+("Alex", "Permanent Vacation", "Human", 1, 1),
+("Alex", "Permanent Vacation", "Human", 1, 1),
+("Alex", "Permanent Vacation", "Human", 1, 1),
+("Alex", "Permanent Vacation", "Human", 1, 2),
+("Alex", "Permanent Vacation", "Human", 1, 2),
+("Alex", "Permanent Vacation", "Human", 1, 2),
+("Alex", "Permanent Vacation", "Human", 1, 2);
