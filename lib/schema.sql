@@ -5,7 +5,7 @@ CREATE TABLE series (
   subgenre_id INTEGER
 );
 
-CREATE TABLE subenre (
+CREATE TABLE subenres(
   id INTEGER PRIMARY KEY,
   name TEXT
 );
