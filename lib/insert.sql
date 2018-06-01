@@ -1,10 +1,10 @@
 INSERT INTO series (title, author_id, subgenre_id)
 VALUES ("Dragonforce", 1, 1),
 ("Toxic Avenger", 2, 1);
---
--- INSERT INTO subgenres (name)
--- VALUES ("Comedy"),
--- ("Drama");
+
+INSERT INTO subgenres (name)
+VALUES ("Comedy"),
+("Drama");
 --
 -- INSERT INTO authors (name)
 -- VALUES ("Jon Bon Jovi"),
