@@ -1,6 +1,6 @@
-INSERT INTO series (title, author_id, subgenre_id)
-VALUES ("Dragonbird", 3, 2),
-("Toxic Avenger", 1, 2);
+INSERT INTO series (title)
+VALUES ("Dragonbird"),
+("Toxic Avenger");
 
 INSERT INTO subgenres (name)
 VALUES ("Comedy"),
