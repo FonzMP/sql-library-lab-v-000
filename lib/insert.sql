@@ -13,6 +13,9 @@ VALUES ("Jon Bon Jovi"),
 INSERT INTO books (title, year, series_id)
 VALUES ("Another Trip Round the Sun", 1986, 2),
 ("Here Comes the Sun", 2016, 3),
+("Here Comes the Sun", 2016, 3),
+("Here Comes the Sun", 2016, 3),
+("Here Comes the Sun", 2016, 3),
 ("Where's the Sun", 1976, 1);
 
 INSERT INTO characters (name, motto, species, author_id, series_id)
