@@ -18,7 +18,7 @@ VALUES ("Another Trip Round the Sun", 1986, 2),
 ("Here Comes the Sun", 2016, 3),
 ("Where's the Sun", 1976, 1);
 
-INSERT INTO characters (name, motto, species, author_id, series_id)
+INSERT INTO character_books (name, motto, species, author_id, series_id)
 VALUES ("Alex", "Permanent Vacation", "Human", 1, 1),
 ("John", "Sure", "Human", 1, 1),
 ("Jacob", "Whatever", "Human", 1, 1),
