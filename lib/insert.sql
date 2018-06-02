@@ -27,3 +27,7 @@ VALUES ("Alex", "Permanent Vacation", "Human", 1, 1),
 ("Chris", "It's mine!", "Human", 1, 2),
 ("Marc", "Tacos", "Human", 1, 2),
 ("Darryl", "Left Turn", "Human", 1, 2);
+
+INSERT INTO character_books (
+  VALUES (book_id, character_id)
+);
