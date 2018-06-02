@@ -36,5 +36,5 @@ end
 
 def select_character_names_and_number_of_books_they_are_in
   "SELECT characters.name, COUNT(books.title) FROM characters
-  JOIN books ON books.series_id = characters.series.id"
+  JOIN books ON books.series_id = characters.series_id"
 end
